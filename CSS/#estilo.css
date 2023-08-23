@@ -1,40 +1,33 @@
-html {
-    tamaño de fuente : 10px ;
-    familia de fuentes : "Open Sans" , sans-serif ;
-   
+html{
+    font-size: 10px;
+    font-family: 'Open-sans' , sans-serif;
     }
    
-    h1 {
-    tamaño de fuente : 60px ;
-    alineación de texto : centro ;
+    h1{
+        font-size:60px;
+    text-align:center;
+   }
+   
+    p, li{
+        font-size:16px;
+        line-height:2;
+        letter-spacing:1px;
     }
    
-    pag , li {
-    tamaño de fuente : 16px ;
-    altura de línea : 2 ;
-    espacio entre letras : 1px ;
+    html{
+    background-color:black;
     }
    
-    html {
-    color de fondo : rgb ( 192 , 255 , 216 );
+    body{
+    width: 600px;
+    margin: 0 auto;
+    background-color:pink;
+    padding: 0 20px 20px 20px ;
+    border: 5px solid pink;
     }
    
-    cuerpo {
-    ancho : 600px ;
-    margen : 0 automático ;
-    color de fondo : rgb ( 219 , 183 , 253 );
-    relleno : 0 20px 20px 20px ;
-    borde: 5 x rgb sólido ( 255 , 255 , 255 );
-    }
    
-    h1 {
-    margen : 0 ;
-    relleno : 20px 0 ;
-    color : rgb ( 255 , 214 , 127 );
-    sombra de texto : 3px 3px 1px negro ;
-    }
-   
-    imagen {
-    mostrar : bloquear ;
-    margen : 0 automático ;
+    img{
+    display: block;
+    margin: 0 auto;
     }
