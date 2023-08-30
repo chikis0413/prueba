@@ -11,14 +11,14 @@ html{
         line-height:2; 
         letter-spacing: 1px;}
    
-    html{background-color:black;}
+    html{background-color:rgb(233, 190, 190);}
    
     body{
     width: 600px;
     margin: 0 auto;
-    background-color:pink;
+    background-color:rgb(131, 189, 199);
     padding: 0 20px 20px 20px ;
-    border: 5px solid pink;
+    border: 5px solid rgb(241, 234, 236);
     }
    
    
